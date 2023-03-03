@@ -2,6 +2,8 @@
 
 Rainmeter скин для панели задач
 
+![RGB_task_bar](rgb.gif)
+
 ### Для работы нужно:
 
 Rainmeter (Виджеты)
